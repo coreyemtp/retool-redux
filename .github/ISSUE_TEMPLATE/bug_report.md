@@ -21,13 +21,13 @@ A clear and concise description of what you expected to happen.
 - [ ] Ubuntu
 - [ ] Other (please specify)
 
-**Retool edition**
+**Retool-Redux edition**
 - [ ] retoolgui.exe
 - [ ] retool.py
 - [ ] retoolgui.py
 
-**Retool version**
-For the command line edition of Retool, the version is shown when you run it with no other arguments.
+**Retool-Redux version**
+For the command line edition of Retool-Redux, the version is shown when you run it with no other arguments.
 
 For the GUI edition, click **Help**, then **About**.
 
@@ -44,4 +44,4 @@ System includes:
 **What other settings are you using?**
 
 **Additional context**
-Add other context about the problem here.
+Add any additional context about the problem here.
